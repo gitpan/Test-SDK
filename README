@@ -1,0 +1,14 @@
+This is a first cut at a Perl Testing Source Development Kit.  It
+installs a bunch of CPAN modules related to testing.
+
+    Test::Harness   1.23
+    Test::Inline    0.10
+    Test::Simple    0.16
+
+You install it just like any other perl module.
+
+    perl Makefile.PL
+    make test
+    make install
+
+Contact schwern@pobox.com with questions.

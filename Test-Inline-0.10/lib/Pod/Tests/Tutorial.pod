@@ -1,0 +1,22 @@
+=head1 NAME
+
+Pod::Tests::Tutorial - Tutorial docs for Pod::Tests
+
+=head1 DESCRIPTION
+
+Pod::Tests is now known as Test::Inline.  The tutorial docs have been
+moved to Test::Inline::Tutorial.
+
+=head1 AUTHOR
+
+Michael G Schwern <schwern@pobox.com>
+
+=head1 SEE ALSO
+
+L<Test::Inline::Tutorial>, L<pod2test>
+
+Short presentation on Test::Inline
+http://www.pobox.com/~schwern/talks/Embedded_Testing/
+
+=cut
+
